@@ -1,0 +1,9 @@
+const String myImage = "images/spider.jpg";
+const String panther = "images/Screenshot 2024-02-24 114206.png";
+const String whites = "images/Screenshot 2024-02-24 114135.png";
+const String nature = "images/Screenshot 2024-02-24 114156.png";
+const String sun = "images/Screenshot 2024-02-24 114041.png";
+const String Dark = "images/Screenshot 2024-02-24 114120.png";
+const String spiderman = "images/5dba0b405723d797b3b0a14dc9322885.png";
+const String spider = "images/desktop-wallpaper-classic-spider-spider-man-logo-phone.jpg";
+const String hulk = "images/desktop-wallpaper-the-hulk-hulk-amoled.jpg";
